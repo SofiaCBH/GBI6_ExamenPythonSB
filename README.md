@@ -1,6 +1,7 @@
 # GBI6_ExamenPythonSB
 
 #Examen segundo parcial
+
 **Datos personales**
 
 Nombre: Sofía Cristina Barros Hurtado
