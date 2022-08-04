@@ -19,6 +19,4 @@ Identificador de dispositivo: 9C61C715-785D-4FF7-A831-CD76CEE38C12
 Python 3.9 • 64-Bit Graphical Installer • 594 MB
 
 **Explicación de la data utilizada**
-
-**Diagrama de procesos **
-
+Pubmed
