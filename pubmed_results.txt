@@ -758,7 +758,7 @@ SO  - Eye (Lond). 2022 Jul 29. pii: 10.1038/s41433-022-02190-4. doi:
 PMID- 35905542
 OWN - NLM
 STAT- Publisher
-LR  - 20220803
+LR  - 20220804
 IS  - 1872-7654 (Electronic)
 IS  - 0301-2115 (Linking)
 VI  - 276
@@ -14081,64 +14081,72 @@ SO  - Chem Biodivers. 2022 Jul;19(7):e202200158. doi: 10.1002/cbdv.202200158. Ep
 PMID- 35603489
 OWN - NLM
 STAT- Publisher
-LR  - 20220523
+LR  - 20220804
 IS  - 1523-1739 (Electronic)
 IS  - 0888-8892 (Linking)
 DP  - 2022 May 23
 TI  - Habitat use of and threats to African large carnivores in a mixed-use landscape.
+PG  - e13943
 LID - 10.1111/cobi.13943 [doi]
-AB  - Large carnivores increasingly inhabit human-impacted landscapes, which exhibit
+AB  - Large carnivores increasingly inhabit human-affected landscapes, which exhibit
       heterogeneity in biotic resources, anthropogenic pressures, and management
-      strategies. Understanding large carnivore habitat use in these modern systems is 
+      strategies. Understanding large carnivore habitat use in these systems is
       critical for their conservation, as is the evaluation of competing management
-      approaches and the impacts of significant land use changes. We employed occupancy
-      modelling to investigate habitat use of an intact eastern African large carnivore
-      guild across the 45,000 km2 Ruaha-Rungwa landscape, in south-central Tanzania. We
-      determined the relative impact of biotic, anthropogenic, and management factors
-      on five large carnivore species, at two biologically meaningful scales. We also
-      specifically tested the effect of a novel trend of trophy hunting area
-      abandonment on large carnivore occurrence. Our results reveal contrasting habitat
-      use patterns: lion were found to be particularly vulnerable to illegal human
-      activity, while African wild dog were instead limited by biotic features,
-      avoiding areas of high sympatric predator density and using less-productive
-      habitats. Spotted hyaena and leopard were able to persist in more disturbed
-      areas, and across habitat types. There was no evidence of large carnivore
-      occurrence being impacted by whether an area was used for photographic or trophy 
-      hunting tourism, with regular law enforcement being instead more important. All
-      species fared better in actively managed hunting areas compared to those that had
-      been abandoned by operators. Overall, our findings highlight the divergent
-      habitat requirements within large carnivore guilds, and the importance of
-      adopting an integrated approach to large carnivore conservation planning in
-      modern systems. We also identified a novel threat to African conservation areas, 
-      in the form of decreased management investments associated with the abandonment
-      of trophy hunting areas, and provide the first assessment of this significant
-      land management change on a large carnivore population. Article impact statement:
-      Habitat degradation associated with ongoing hunting area abandonment is shown to 
-      be a novel threat to large African carnivore populations. This article is
-      protected by copyright. All rights reserved.
-CI  - This article is protected by copyright. All rights reserved.
+      approaches and the impacts of significant land-use changes. We used occupancy
+      modeling to investigate habitat use of an intact eastern African large carnivore 
+      guild across the 45,000 km(2) Ruaha-Rungwa landscape in south-central Tanzania.
+      We determined the relative impact on five large carnivore species of biotic,
+      anthropogenic, and management factors at the scales of home range selection and
+      short-term use within home ranges. We also specifically tested the effect of
+      abandonment of trophy hunting areas on large carnivore occurrence. Patterns of
+      habitat use differed among species. Lions (Panthera leo) appeared affected by
+      top-down limitation, as their occurrence was significantly negatively associated 
+      with illegal human activity (beta = -0.63 [SE 0.28]). African wild dogs (Lycaon
+      pictus), instead, were limited by biotic features; the species was negatively
+      associated with riverine areas of high sympatric predator density (beta = -1.00
+      [SE 0.43]) and used less-productive habitats. Spotted hyaena (Crocuta crocuta)
+      and leopard (Panthera pardus) persisted in more disturbed areas and across
+      habitat types. Large carnivore occurrence was not affected by whether an area was
+      used for photographic or trophy hunting tourism; regular law enforcement was
+      instead a better predictor of occurrence. All species fared better in actively
+      managed hunting areas than those that had been abandoned by operators. Overall,
+      our findings highlight the divergent habitat requirements within large carnivore 
+      guilds and the importance of adopting an integrated approach to large carnivore
+      conservation planning in modern systems. We also identified a novel threat to
+      African conservation areas in the form of decreased management investments
+      associated with the abandonment of trophy hunting areas.
+CI  - (c) 2022 The Authors. Conservation Biology published by Wiley Periodicals LLC on 
+      behalf of Society for Conservation Biology.
 FAU - Strampelli, Paolo
 AU  - Strampelli P
 AUID- ORCID: https://orcid.org/0000-0003-0763-4164
-AD  - Wildlife Conservation Research Unit, Department of Zoology, Recanati-Kaplan
-      Centre, University of Oxford, Oxford, UK.
+AD  - Wildlife Conservation Research Unit, Department of Zoology, University of Oxford,
+      Recanati-Kaplan Centre, Oxford, UK.
+AD  - Lion Landscapes, Iringa, Tanzania.
 FAU - Henschel, Philipp
 AU  - Henschel P
-AD  - Panthera, New York, NY, USA.
+AD  - Panthera, New York City, New York, USA.
 FAU - Searle, Charlotte E
 AU  - Searle CE
-AD  - Wildlife Conservation Research Unit, Department of Zoology, Recanati-Kaplan
-      Centre, University of Oxford, Oxford, UK.
-AD  - Panthera, New York, NY, USA.
+AD  - Wildlife Conservation Research Unit, Department of Zoology, University of Oxford,
+      Recanati-Kaplan Centre, Oxford, UK.
+AD  - Panthera, New York City, New York, USA.
+AD  - Lion Landscapes, Iringa, Tanzania.
 FAU - Macdonald, David W
 AU  - Macdonald DW
-AD  - Wildlife Conservation Research Unit, Department of Zoology, Recanati-Kaplan
-      Centre, University of Oxford, Oxford, UK.
+AD  - Wildlife Conservation Research Unit, Department of Zoology, University of Oxford,
+      Recanati-Kaplan Centre, Oxford, UK.
 FAU - Dickman, Amy J
 AU  - Dickman AJ
-AD  - Wildlife Conservation Research Unit, Department of Zoology, Recanati-Kaplan
-      Centre, University of Oxford, Oxford, UK.
+AD  - Wildlife Conservation Research Unit, Department of Zoology, University of Oxford,
+      Recanati-Kaplan Centre, Oxford, UK.
+AD  - Lion Landscapes, Iringa, Tanzania.
 LA  - eng
+GR  - Royal Geographical Society
+GR  - Panthera
+GR  - Columbus Zoological Park Association
+GR  - Chicago Zoological Society
+GR  - National Geographic Society
 PT  - Journal Article
 DEP - 20220523
 PL  - United States
@@ -14152,21 +14160,25 @@ OT  - Crocuta crocuta
 OT  - Lycaon pictus
 OT  - Panthera leo
 OT  - Panthera pardus
+OT  - abandono de area
 OT  - anthropogenic disturbance
+OT  - caza de trofeos
 OT  - habitat use
+OT  - perturbacion antropogenica
 OT  - trophy hunting area abandonment
+OT  - uso de habitat
 EDAT- 2022/05/24 06:00
 MHDA- 2022/05/24 06:00
 CRDT- 2022/05/23 05:07
 PHST- 2022/04/22 00:00 [revised]
 PHST- 2021/09/14 00:00 [received]
 PHST- 2022/05/03 00:00 [accepted]
-PHST- 2022/05/23 05:07 [entrez]
 PHST- 2022/05/24 06:00 [pubmed]
 PHST- 2022/05/24 06:00 [medline]
+PHST- 2022/05/23 05:07 [entrez]
 AID - 10.1111/cobi.13943 [doi]
 PST - aheadofprint
-SO  - Conserv Biol. 2022 May 23. doi: 10.1111/cobi.13943.
+SO  - Conserv Biol. 2022 May 23:e13943. doi: 10.1111/cobi.13943.
 
 PMID- 35602561
 OWN - NLM
